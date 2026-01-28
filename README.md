@@ -16,4 +16,4 @@ This project explores employee attrition patterns using an interactive Power BI 
 - Interactive Power BI dashboard
 - Role- and segment-level attrition analysis
 ## Dashboard Preview
-![HR Attrition Dashboard](Screenshot-2026-01-28-191938.png)
+![HR Attrition Dashboard](screenshots/Screenshot-2026-01-28-191938.png)
